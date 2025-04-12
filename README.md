@@ -1,10 +1,21 @@
-## Hi 👋, I'm QUAN [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello+World%22))](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello+World%22))](https://git.io/typing-svg)
+
+## Hi 👋, I'm QUAN 
 #### 🌱 I am freshman studying,interested in AI automation & Java development
 
 ![https://count.getloli.com/@byquan2004?name=byquan2004&theme=rule34&padding=7&offset=0&scale=1&pixelated=1&darkmode=0](https://count.getloli.com/@byquan2004?name=byquan2004&theme=rule34&padding=9&offset=20&align=top&scale=1&pixelated=1&darkmode=0&prefix=001)
 
-![byquan2004's GitHub stats](https://github-readme-stats.vercel.app/api?username=byquan2004&show_icons=true&bg_color=00000000)
-
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=byquan2004&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=byquan2004&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=byquan2004&show_icons=true" />
+</picture>
 
 
 
