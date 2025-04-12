@@ -1,7 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=console.log(%22Hello+World%22))](https://git.io/typing-svg)
-
-## Hi 👋, I'm QUAN 
-#### 🌱 I am freshman studying,interested in AI automation & Java development
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+QUAN+)](https://git.io/typing-svg)
 
 ![https://count.getloli.com/@byquan2004?name=byquan2004&theme=rule34&padding=7&offset=0&scale=1&pixelated=1&darkmode=0](https://count.getloli.com/@byquan2004?name=byquan2004&theme=rule34&padding=9&offset=20&align=top&scale=1&pixelated=1&darkmode=0&prefix=001)
 
@@ -17,6 +14,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=byquan2004&show_icons=true" />
 </picture>
 
+#### 🌱 I am freshman studying,interested in AI automation & Java development
 
 
 
