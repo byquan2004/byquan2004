@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm QUAN</h1>
-<h3 align="center">I am freshman studying,interested in AI automation & Java development</h3>
+<h5 align="center">I am freshman studying,interested in AI automation & Java development</h5>
 
-https://count.getloli.com/@byquan2004?name=byquan2004&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0
+![:byquan2004](https://count.getloli.com/@byquan2004?name=byquan2004&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0)
 
 <div align="center">
   <img height="130px" src="https://github-readme-stats.vercel.app/api?username=byquan2004&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
