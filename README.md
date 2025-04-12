@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋, I'm QUAN</h1>
 <h3 align="center">I am freshman studying,interested in AI automation & Java development</h3>
 
-![:Augenestern-creator](https://count.getloli.com/get/@:byquan2004?theme=booru-lewd)
+https://count.getloli.com/@byquan2004?name=byquan2004&theme=rule34&padding=7&offset=0&align=center&scale=1&pixelated=1&darkmode=0
 
 <div align="center">
-  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=byquan2004&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=byquan2004&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+  <img height="130px" src="https://github-readme-stats.vercel.app/api?username=byquan2004&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 </div>
-
- [![byquan2004's github activity graph](https://activity-graph.herokuapp.com/graph?username=byquan2004&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 <!--
